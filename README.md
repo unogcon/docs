@@ -1,19 +1,10 @@
-# 3D GFX
+# UNO Game Concentration
 
 
 
- ## Getting Ready For Class
+ ## Starting with the end in mind
 
- Online Resources
- - [Canvas](//canvas.unomaha.edu) for grades
- - [Github](//github.com/4620) for code
- - This website for notes
- - [Syllabus repo](//github.com/bricksphd/teaching) for the syllabus
-
- Technologies we'll use
-
- - [Blender](//blender.org)
- - [Three.js](//threejs.org) 
+ ## Required Courses
 
 
 

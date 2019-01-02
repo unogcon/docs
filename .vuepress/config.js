@@ -1,5 +1,5 @@
 module.exports = {
-  title: "3D GFX",
+  title: "UNO Game Concentration",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -10,7 +10,7 @@ module.exports = {
       '/Themes'
       
     ],
-    repo:"4620/gfx",
+    repo:"unogcon/docs",
     editLinks:true,
   }
 }
