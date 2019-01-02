@@ -1,0 +1,13 @@
+{
+  "name": "4620.gfx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
